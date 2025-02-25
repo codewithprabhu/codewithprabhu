@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Prabhu Bansal!<br>🎓 B.Tech Computer Science Engineering Student<br>💡 Tech Enthusiast | Game Developer | Cybersecurity Learner<br>🚀 Passionate about building immersive games, exploring ethical hacking, and securing digital systems.<br>🛠️ Constantly learning and experimenting with new technologies, frameworks, and security practices.<br><br>💻 Tech & Interests:<br><br>🎮 Game Development: Unity, Unreal Engine, C<br>🔐 Cybersecurity: Ethical hacking<br>💻 Programming: Python, C, JavaScript<br>🖥️ Other Interests: AI, Web Development, Open Source Contributions
+👋 Hey there, I'm Prabhu Bansal!<br>🎓 B.Tech Computer Science Engineering Student<br>💡 Tech Enthusiast  | Cybersecurity Learner<br>🚀 Passionate about building immersive games, exploring ethical hacking, and securing digital systems.<br>🛠️ Constantly learning and experimenting with new technologies, frameworks, and security practices.<br><br>💻 Tech & Interests:<br><br>🎮 <br>🔐 <br>💻 Programming: Python, C, JavaScript<br>🖥️ Other Interests: AI, Web Development, Open Source Contributions
 
 
 ## 🌐 Socials:

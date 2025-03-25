@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hey there, I'm Prabhu Bansal!<br>🎓 B.Tech Computer Science Engineering Student<br>💡 Tech Enthusiast  | Cybersecurity Learner<br>🚀 Passionate about building immersive games, exploring ethical hacking, and securing digital systems.<br>🛠️ Constantly learning and experimenting with new technologies, frameworks, and security practices.<br>💻 Tech & Interests:<br>💻 Programming: Python, C, JavaScript<br>🖥️ Other Interests: AI, Web Development, Open Source Contributions
 
+hey #hello
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabhu-bansal-0186b2325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansalprabhu04@gmail.com) 

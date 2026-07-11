@@ -112,95 +112,57 @@ I'm currently focused on:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 AI-Powered Application (LangChain & LLMs)</b></summary>
+<summary><b>🏥 Curifix – AI-Powered Hospital Management System</b></summary>
 <br/>
 
-An AI application built using LangChain to integrate LLM-powered features into a full-stack product, enabling intelligent, context-aware interactions.
+A full-stack healthcare platform that leverages AI to streamline hospital operations, assist patients with intelligent medical guidance, and enable secure real-time communication between doctors and patients.
 
 | Attribute | Details |
 |:--|:--|
-| **Stack** | Next.js, Node.js, LangChain, TypeScript |
-| **Scale** | *(Add usage / user metrics)* |
-| **Performance** | *(Add latency / performance metrics)* |
-| **Security** | REST API authentication & environment-secured API keys |
-| **Impact** | *(Add measurable outcome)* |
-| **Repository** | [View Repository](https://github.com/codewithprabhu) |
+| **Stack** | React, Node.js, Express.js, MongoDB, LangChain, Google Gemini API, Socket.io, Tailwind CSS, MapLibre GL, Cloudinary |
+| **Core Features** | AI Medical Assistant, Teleconsultation, Appointment Scheduling, Prescription Management, Medication Reminders, Doctor & Patient Dashboards |
+| **Architecture** | RESTful APIs, JWT/OAuth Authentication, Real-time Communication, Cloud Media Storage |
+| **Performance** | Low-latency real-time messaging with Socket.io and optimized API responses |
+| **Security** | JWT Authentication, OAuth Login, Protected Routes, Role-Based Access Control, Environment-Secured API Keys |
+| **Impact** | Demonstrates the integration of Generative AI with a scalable healthcare platform, combining conversational AI, real-time communication, geolocation services, and secure cloud infrastructure. |
+| **Repository** | [View Repository](https://github.com/codewithprabhu/curifix) |
 
-Built to explore practical applications of LLMs within a full-stack architecture, combining LangChain orchestration with a modern React/Next.js frontend and Node.js backend.
+Curifix showcases modern full-stack development by combining React, Node.js, MongoDB, and LangChain with Google's Gemini models to deliver intelligent healthcare assistance, real-time teleconsultation, secure authentication, and location-based healthcare services in a scalable and user-friendly application.
 
 </details>
+
+
+
+
 
 <details>
-<summary><b>🔹 Full-Stack Web Application</b></summary>
+<summary><b>🛡️ Sentinel – AI-Powered Job Scam Detection Platform</b></summary>
 <br/>
 
-A scalable full-stack web application built with a modern React/Next.js frontend and a Node.js/Express backend with REST API architecture.
+An AI-powered platform designed to help job seekers identify fraudulent job postings, analyze suspicious recruitment messages, and make informed career decisions through intelligent risk assessment and verification tools.
 
 | Attribute | Details |
 |:--|:--|
-| **Stack** | React, Next.js, Node.js, Express.js, MongoDB / PostgreSQL |
-| **Scale** | *(Add usage / user metrics)* |
-| **Performance** | *(Add performance metrics)* |
-| **Security** | REST API auth, input validation |
-| **Impact** | *(Add measurable outcome)* |
-| **Repository** | [View Repository](https://github.com/codewithprabhu) |
+| **Stack** | Next.js, Node.js, Express.js, MongoDB, LangChain.js, Google Gemini API, Tailwind CSS, Cloudinary |
+| **Core Features** | Job Scam Detection, AI Risk Analysis, Recruitment Message Verification, Company Legitimacy Checks, User Dashboard |
+| **Architecture** | RESTful APIs, JWT/OAuth Authentication, AI-Powered Analysis Pipeline, Modular Backend Services |
+| **Performance** | Optimized API architecture with fast AI-powered job assessment and scalable backend services |
+| **Security** | JWT Authentication, OAuth Login, Protected Routes, Role-Based Access Control, Environment-Secured API Keys |
+| **Impact** | Helps job seekers avoid fraudulent opportunities by providing AI-driven analysis of job postings, recruiter messages, and company information before applying. |
+| **Repository** | [View Repository](https://github.com/codewithprabhu/Sentinel) |
 
-Focused on writing clean, modular, and maintainable code across the stack, with an emphasis on REST API design and responsive UI development.
+Sentinel combines modern full-stack development with Generative AI to detect potential job scams, evaluate recruitment communications, verify company information, and provide users with actionable insights for safer job searching.
 
 </details>
 
-<details>
-<summary><b>🔹 DSA & Problem Solving Repository (Java)</b></summary>
+
 <br/>
 
-A structured repository of Data Structures & Algorithms solutions in Java, built to strengthen core problem-solving and computer science fundamentals.
 
-| Attribute | Details |
-|:--|:--|
-| **Stack** | Java |
-| **Scale** | Growing collection of solved problems |
-| **Performance** | Optimized time & space complexity solutions |
-| **Security** | N/A |
-| **Impact** | Strengthened algorithmic problem-solving skills |
-| **Repository** | [View Repository](https://github.com/codewithprabhu) |
-
-Maintained as a continuous learning log covering arrays, trees, graphs, dynamic programming, and other core DSA topics.
-
-</details>
 
 <br/>
 
 ---
-
-## 💼 Experience
-
-### *(Add Job Title)* — **Add Company Name**
-**Add Date Range**
-
-*(Add a short professional description of your role and contributions.)*
-
-**Scope of Work**
-- *(Add responsibility)*
-- *(Add responsibility)*
-- *(Add responsibility)*
-
-`React` `Next.js` `Node.js` `TypeScript`
-
-<br/>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🏅 *(Add Achievement)* | *(Add details)* |
-| 🌟 *(Add Achievement)* | *(Add details)* |
-| 📜 *(Add Achievement)* | *(Add details)* |
-
-</div>
 
 <br/>
 
